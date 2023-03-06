@@ -1,0 +1,35 @@
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\New metro App.exe
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\New metro App.deps.json
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\New metro App.runtimeconfig.json
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\New metro App.dll
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\New metro App.pdb
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.csproj.AssemblyReference.cache
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Form1.resources
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.csproj.GenerateResource.cache
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.AssemblyInfoInputs.cache
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.AssemblyInfo.cs
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.csproj.CoreCompileInputs.cache
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.csproj.CopyComplete
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.dll
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\refint\New metro App.dll
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.pdb
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New metro App.genruntimeconfig.cache
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\ref\New metro App.dll
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Properties.Resources.resources
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Forms.FormSearchMetro.resources
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Forms.FormAdmin.resources
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Forms.FormHome.resources
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Forms.FormLogin.resources
+C:\Users\devik\source\repos\New metro App\obj\Debug\net6.0-windows\New_metro_App.Forms.FormSignUp.resources
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\devik\source\repos\New metro App\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\devik\Downloads\New metro App###\obj\Debug\net6.0-windows\New metro App.csproj.AssemblyReference.cache
+C:\Users\devik\Downloads\New metro App###\obj\Debug\net6.0-windows\New metro App.dll
+C:\Users\devik\Downloads\New metro App###\obj\Debug\net6.0-windows\refint\New metro App.dll
+C:\Users\devik\Downloads\New metro App###\obj\Debug\net6.0-windows\New metro App.pdb
